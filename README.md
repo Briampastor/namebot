@@ -1,5 +1,5 @@
 
-Namebot
+#Namebot
 Simple WhatsApp Bot
 
 FOR TERMUX USER
@@ -11,7 +11,7 @@ FOR TERMUX USER
 > git clone https://github.com/Briampastor/namebot
 > cd namebot
 > npm install
-FOR WINDOWS/VPS/RDP USER
+#FOR WINDOWS/VPS/RDP USER
 Download And Install Git Click Here
 Download And Install NodeJS Click Here
 Download And Install FFMPEG Click Here (don't forget to path)
